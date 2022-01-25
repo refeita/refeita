@@ -1,7 +1,7 @@
 Olá, eu sou a Rafaela Candido
 
 - Hoje sou bolsista em iniciação cientifica da UEPB
-- Estudando Angular e Typescript
+- Estudando ReactJS e Typescript
 - Pronome: ela/dela
   
  <div align="center">
