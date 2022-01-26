@@ -1,4 +1,4 @@
-Olá, eu sou a Rafaela Candido
+<h3 align="center">Olá, eu sou a Rafaela Candido, muito prazer!</h3>
 
 - Hoje sou bolsista em iniciação cientifica da UEPB
 - Estudando ReactJS e Typescript
@@ -17,7 +17,7 @@ Olá, eu sou a Rafaela Candido
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/935651217680511058/935661231153483776/Webp.net-gifmaker.gif">
+  <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/935651217680511058/935661231153483776/Webp.net-gifmaker.gif">
 </div>
 
 ##
@@ -29,3 +29,5 @@ Olá, eu sou a Rafaela Candido
 </div>
   
 ![Snake animation](https://github.com/refeita/refeita/blob/output/github-contribution-grid-snake.svg)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=refeita&repo=helensouz&countColorcountColor)
+
