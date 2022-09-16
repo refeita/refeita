@@ -1,6 +1,6 @@
 <h3 align="center">Olá, eu sou a Rafaela Candido, muito prazer!</h3>
 
-- Sou estudante de Ciência da Computação na UEPB . Hoje sou bolsista em iniciação cientifica da UEPB .
+- Sou estudante de Ciência da Computação na UEPB.
   
  <div align="center">
   <a href="https://github.com/refeita">
